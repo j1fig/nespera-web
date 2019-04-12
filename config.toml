@@ -16,9 +16,9 @@ disqusShortname = "yourdiscussshortname"
   quality = 99
 
 [params]
-  description = "An umbrella for climate related work."
+  description = "A fruit to keep next to my projects."
   homeMetaContent = "Positive climate impact."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  # footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "someUser"
